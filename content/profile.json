@@ -1,0 +1,11 @@
+{
+  "name": "Mochamad Fajar Maulana",
+  "formalPhoto": "/images/FotoFormal.webp",
+  "casualPhoto": "/images/FotoCasual.webp",
+  "education": {"status": "Mahasiswa", "major": "Teknik Komputer", "institution": "Politeknik LP3I Cirebon"},
+  "heroDescription": "Belajar teknologi, mengeksplorasi kreativitas, dan mengembangkan ide melalui proyek kuliah serta kolaborasi.",
+  "about": "Saya Mochamad Fajar Maulana, mahasiswa Teknik Komputer di Politeknik LP3I Cirebon. Saya mengembangkan kemampuan di bidang teknologi dan visual melalui perkuliahan, eksplorasi mandiri, dan proyek yang saya kerjakan. Portofolio ini menjadi ruang untuk berbagi proses belajar, karya, serta peluang kolaborasi.",
+  "learningFocus": "Fokus belajar saya mencakup web programming, robotika, dan IoT, termasuk proyek UAS Activity Tracking System berbasis ESP32. Di sisi kreatif, saya mengeksplorasi fotografi, editing, dan desain grafis. Microsoft Office mendukung penyusunan dokumen, pengolahan data, dan presentasi.",
+  "collaborationFocus": "Sebagai mahasiswa, saya terus mengasah kemampuan dan terbuka pada masukan. Saya menyambut kolaborasi dengan teman, komunitas, maupun klien, dengan ruang lingkup pekerjaan yang disesuaikan dengan kemampuan dan waktu perkuliahan.",
+  "siteUrl": "https://example.com"
+}

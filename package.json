@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-fajar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "build": "node scripts/render-pages.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/render-pages.mjs && node scripts/serve.mjs",
+    "check": "node scripts/validate.mjs"
+  }
+}

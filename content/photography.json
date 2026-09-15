@@ -1,0 +1,58 @@
+[
+  {
+    "id": "potret",
+    "title": "Cerita dari wajah dan ekspresi",
+    "category": "Potret",
+    "path": "creative",
+    "type": "Fotografi",
+    "image": "/images/potrait.webp",
+    "tools": [
+      "Lightroom"
+    ],
+    "description": "Tempat untuk seri fotografi potret Anda. Tambahkan konsep pemotretan, pendekatan pencahayaan, dan hasil akhir.",
+    "result": "Sebuah foto yang menunjukan sebuah model yang di potret dalam perspektif berbeda menghasilkan foto yang indah walaupun pencahayaan yang minim.",
+    "sample": true
+  },
+  {
+    "id": "moment",
+    "title": "Momen yang tak luput dari lensa",
+    "category": "Event",
+    "path": "creative",
+    "type": "Fotografi",
+    "image": "/images/Yudisium.webp",
+    "tools": [
+      "Lightroom"
+    ],
+    "description": "Sebuah moment dalam event yang tak luput dari lensa fotographer yang jarang diabadikan.",
+    "result": "Moment yang indah",
+    "sample": true
+  },
+  {
+    "id": "event",
+    "title": "Momen perspektif yang berbeda",
+    "category": "Event",
+    "path": "creative",
+    "type": "Fotografi",
+    "image": "/images/Event.webp",
+    "tools": [
+      "Lightroom"
+    ],
+    "description": "Foto sebuah event yang diambil dalam posisi lensa yang berbeda.",
+    "result": "Sebuah foto yang menunjukan pertunjukan utama tanpa terlepas dari pandangan penonton yang melihat ke arah artist.",
+    "sample": true
+  },
+  {
+    "id": "landscape",
+    "title": "Ruang untuk menjelajah",
+    "category": "Landscape",
+    "path": "creative",
+    "type": "Fotografi",
+    "image": "/images/Lanskap.webp",
+    "tools": [
+      "Lightroom"
+    ],
+    "description": "Sekelompok mahasiswa kkn yang mengabadikan momen sebelum kkn berakhir sepenuhnya.",
+    "result": "berfoto bersama dalam suasana yang indah bersama kelompok kkn yang 30 hari bersama sama.",
+    "sample": true
+  }
+]

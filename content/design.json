@@ -1,0 +1,17 @@
+[
+  {
+    "id": "desain",
+    "title": "Identitas visual & desain",
+    "category": "Desain Grafis",
+    "path": "creative",
+    "type": "Desain Grafis",
+    "image": "/images/Desain.webp",
+    "tools": [
+      "CorelDRAW",
+      "Canva"
+    ],
+    "description": "Tambahkan poster, logo, banner, atau konten media sosial Anda.",
+    "result": "Isi hasil dan dampak proyek Anda.",
+    "sample": true
+  }
+]

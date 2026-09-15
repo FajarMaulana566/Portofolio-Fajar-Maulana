@@ -1,0 +1,62 @@
+[
+  [
+    "Lr",
+    "Adobe Lightroom",
+    "creative",
+    "#64baff"
+  ],
+  [
+    "Ps",
+    "Adobe Photoshop",
+    "creative",
+    "#43adff"
+  ],
+  [
+    "Ai",
+    "Adobe Illustrator",
+    "creative",
+    "#ff9d39"
+  ],
+  [
+    "Cd",
+    "CorelDRAW",
+    "creative",
+    "#69ce77"
+  ],
+  [
+    "Ca",
+    "Canva",
+    "creative",
+    "#46d8d0"
+  ],
+  [
+    "</>",
+    "Visual Studio Code",
+    "tech",
+    "#42b1ff"
+  ],
+  [
+    "W",
+    "Microsoft Word",
+    "tech",
+    "#5997ff"
+  ],
+  [
+    "X",
+    "Microsoft Excel",
+    "tech",
+    "#51be90"
+  ],
+  [
+    "P",
+    "Microsoft PowerPoint",
+    "tech",
+    "#ff8d70"
+  ],
+  [
+    "∞",
+    "Arduino IDE",
+    "tech",
+    "#51c7c7"
+  ]
+]

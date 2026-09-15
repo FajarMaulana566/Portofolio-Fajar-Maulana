@@ -1,0 +1,21 @@
+[
+  {
+    "id": "web",
+    "title": "Website yang bekerja untuk Anda",
+    "category": "Web Programming",
+    "path": "tech",
+    "type": "Web Programming",
+    "image": "/images/Web.webp",
+    "tools": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "VS Code"
+    ],
+    "demo": "s.id/HandayaniMelati1",
+    "github": "https://github.com/FajarMaulana566/RonceanMelati",
+    "description": "Sebuah website yang menampilkan informasi tentang produk, layanan, atau bisnis Anda. Website ini dirancang untuk memberikan pengalaman pengguna yang baik dan mudah dinavigasi.",
+    "result": "Website berjalan dengan baik dan menampilkan semua informasi yang dibutuhkan oleh customer",
+    "sample": true
+  }
+]

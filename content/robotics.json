@@ -1,0 +1,24 @@
+[
+  {
+    "id": "robotika",
+    "title": "IoT-Based Activity Tracking System",
+    "category": "Robotika",
+    "path": "tech",
+    "type": "Robotika",
+    "sample": false,
+    "image": "/images/uas-hardware-1280.webp",
+    "srcset": "/images/uas-hardware-640.webp 640w, /images/uas-hardware-1280.webp 1280w",
+    "alt": "Rangkaian asli proyek UAS: ESP32 dan modul sensor pada breadboard dengan kabel jumper serta LED indikator",
+    "width": 1280,
+    "height": 720,
+    "tools": ["ESP32", "RFID RC522", "IR Obstacle ×2", "RTC DS3231", "PHP", "MySQL", "Telegram Bot"],
+    "description": "Monitoring keluar–masuk ruangan dengan RFID, sensor IR, dashboard web, dan notifikasi Telegram.",
+    "result": "Mencatat pengguna terdaftar, kartu ditolak, masuk tanpa RFID, dan aktivitas keluar.",
+    "source": "Proyek UAS Teknik Antarmuka · dokumentasi dari laporan pribadi",
+    "gallery": [
+      {"src": "/images/uas-hardware-1280.webp", "srcset": "/images/uas-hardware-640.webp 640w, /images/uas-hardware-1280.webp 1280w", "alt": "Foto rangkaian prototipe ESP32, RFID, sensor IR, RTC, LED, dan buzzer", "width": 1280, "height": 720, "caption": "01 / Rangkaian prototipe"},
+      {"src": "/images/uas-dashboard-1280.webp", "srcset": "/images/uas-dashboard-640.webp 640w, /images/uas-dashboard-1280.webp 1280w", "alt": "Dashboard web IoT dengan ringkasan kapasitas, jumlah masuk, keluar, unknown, kartu ditolak, dan grafik aktivitas", "width": 1338, "height": 632, "caption": "02 / Web dashboard"},
+      {"src": "/images/uas-telegram-690.webp", "alt": "Menu Telegram Bot Activity Tracking System untuk melihat status, log, dan mengelola RFID", "width": 690, "height": 605, "caption": "03 / Telegram Bot"}
+    ]
+  }
+]

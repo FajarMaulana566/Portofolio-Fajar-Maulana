@@ -1,0 +1,18 @@
+[
+  {
+    "id": "office",
+    "title": "Data rapi. Informasi berarti.",
+    "category": "Microsoft Office",
+    "path": "tech",
+    "type": "Microsoft Office",
+    "image": "/images/Office.webp",
+    "tools": [
+      "Word",
+      "Excel",
+      "PowerPoint"
+    ],
+    "description": "Sertifikat BNSP Operator Komputer Muda",
+    "result": "Sertifikat ini menunjukan bahwa saya memiliki kemampuan yang baik dalam pengoperasian microsoft office dan juga dengan latar belakang jurusan dan kampus saya yang mendukung adanya pelatihan microsoft office dalam Mata kuliah yang diampu.",
+    "sample": true
+  }
+]

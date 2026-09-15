@@ -1,0 +1,18 @@
+[
+  {
+    "id": "editing",
+    "title": "Dari gambar menjadi cerita",
+    "category": "Editing",
+    "path": "creative",
+    "type": "Editing",
+    "image": "/images/Edit.webp",
+    "before": "/images/Before.webp",
+    "tools": [
+      "Photoshop",
+      "Lightroom"
+    ],
+    "description": "Tambahkan gambar asli pada properti before dan hasil edit pada image untuk mengaktifkan perbandingan.",
+    "result": "Isi hasil dan dampak proyek Anda.",
+    "sample": true
+  }
+]
